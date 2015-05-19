@@ -1,4 +1,4 @@
-# pov_display
+# POV Display
 Hand-waved persistence of vision display. The display uses an analogue accelerometer to 
 detect when it is moving in a particular direction. 
 
